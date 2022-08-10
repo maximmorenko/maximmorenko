@@ -1,24 +1,16 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> my name is Maksim<br>
-### I am a junior front-end developer. Welcome and enjoy watching!<br>
-
+<h1 align=center>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> my name is Maksim</h1>
+<h3 align=center>I am a junior front-end developer. Welcome and enjoy watching!</h3>
+<div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
+  <img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
+  <img align="right" width="600" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
 </a>
-
+</div>
 <hr>
-<p align=center>
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-</p>
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://github.com/maximmorenko/maximmorenko/blob/output/github-user-contribution.svg" width="100%">
-
-
 <hr />
-
 <h3 align="left">My stack:</h3>
   <p align="left">
     <a
