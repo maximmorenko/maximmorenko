@@ -8,6 +8,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
 </a>
 
+<hr>
+<p align=center>
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+</p>
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://github.com/maximmorenko/maximmorenko/blob/output/github-user-contribution.svg" width="100%">
+
+
+<hr />
+
 <h3 align="left">My stack:</h3>
   <p align="left">
     <a
