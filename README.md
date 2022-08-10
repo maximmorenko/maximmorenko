@@ -2,10 +2,10 @@
 <h3 align=center>I am a junior front-end developer. Welcome and enjoy watching!</h3>
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
+  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="600" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
+  <img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
 </a>
 </div>
 <hr>
