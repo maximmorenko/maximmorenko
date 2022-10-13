@@ -118,4 +118,18 @@
         height="40"
       />
     </a>
+    <a
+      href="https://www.typescriptlang.org/"
+      target="_blank"
+      rel="noreferrer"
+      margin="20"
+    >
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+        alt="Typescript"
+        width="40"
+        height="40"
+        margin-right="40px"
+      />
+    </a>
   </p>
