@@ -1,12 +1,17 @@
 <h1 align=center>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> my name is Maksim</h1>
 <h3 align=center>I am a junior front-end developer. Welcome and enjoy watching!</h3>
-<div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
+
+<div align="center">
+  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue-dark&line_height=27&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=maximmorenko" height="150" alt="ghstats"  />
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maximmorenko&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maximmorenko&repo=convoychat" />
 </a>
+
+  <img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
 </div>
 <hr>
 <img src="https://github.com/maximmorenko/maximmorenko/blob/output/github-user-contribution.svg" width="100%">
