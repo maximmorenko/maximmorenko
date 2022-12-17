@@ -2,15 +2,20 @@
 <h3 align=center>I am a junior front-end developer. Welcome and enjoy watching!</h3>
 
 <div align="center">
-  
   <img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
   <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
 </div>
 <hr>
 <img src="https://github.com/maximmorenko/maximmorenko/blob/output/github-user-contribution.svg" width="100%">
 <hr />
-<h3 align="left">My stack:</h3>
-  <p align="left">
+<div align="center">
+<a href="https://www.codewars.com/users/maxim_morenko">
+  <img src="https://www.codewars.com/users/maxim_morenko/badges/large" alt="codewars profile badge">
+</a>
+</div>
+<hr />
+<h2 align="center">MY STACK</h2>
+  <p align="center">
     <a
       href="https://reactjs.org/"
       target="_blank"
