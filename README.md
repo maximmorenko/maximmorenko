@@ -6,7 +6,7 @@
   <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
 </div>
 <hr>
-<img src="https://github.com/maximmorenko/maximmorenko/blob/output/github-user-contribution.svg" width="100%">
+<img src="https://github.com/maximmorenko/maximmorenko/blob/master/github-user-contribution.svg" width="100%">
 <hr />
 <div align="center">
 <a href="https://www.codewars.com/users/maxim_morenko">
