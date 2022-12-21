@@ -7,13 +7,11 @@
 </div>
 <hr>
 <img src="https://github.com/maximmorenko/maximmorenko/blob/master/github-user-contribution.svg" width="100%">
-<hr />
 <div align="center">
 <a href="https://www.codewars.com/users/maxim_morenko">
   <img src="https://www.codewars.com/users/maxim_morenko/badges/large" alt="codewars profile badge">
 </a>
 </div>
-<hr />
 <h2 align="center">MY STACK</h2>
   <p align="center">
     <a
@@ -136,6 +134,7 @@
       />
     </a>
   </p>
+<hr />
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=maximmorenko" style="width:15%;"/>
   </div>
