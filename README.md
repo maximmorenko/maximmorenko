@@ -8,6 +8,9 @@
 <hr>
 <img src="https://github.com/maximmorenko/maximmorenko/blob/master/github-user-contribution.svg" width="100%">
 <div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximmorenko&" alt="maximmorenko" /></p>
+</div>
+<div align="center">
 <a href="https://www.codewars.com/users/maxim_morenko">
   <img src="https://www.codewars.com/users/maxim_morenko/badges/large" alt="codewars profile badge">
 </a>
