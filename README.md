@@ -1,10 +1,14 @@
 <h1 align=center>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> my name is Maksim</h1>
 <h3 align=center>I am a junior front-end developer. Welcome and enjoy watching!</h3>
 
-<div align="center">
-  <img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=maximmorenko&count_private=true&theme=vue-dark&line_height=27" />
-  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&show_icons=true&theme=vue-dark" />
-</div>
+ <p align="center"> <!--- P tag to align contents -->
+    <a href="https://github.com/maximmorenko">
+      <img alt="maximmorenko's Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=maximmorenko&show_icons=true&count_private=true&layout=compact&theme=light" height="192px">
+    </a>
+    <a href="https://github.com/maximmorenko">
+      <img alt="maximmorenko's Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximmorenko&langs_count=9&layout=compact&theme=light" height="192px">
+    </a>
+</p>
 <hr>
 <img src="https://github.com/maximmorenko/maximmorenko/blob/master/github-user-contribution.svg" width="100%">
 <div align="center">
@@ -141,3 +145,8 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=maximmorenko" style="width:15%;"/>
   </div>
+<!--  <p align="center"> -->
+<!--     <a href="https://github.com/maximmorenko"> -->
+<!--       <img alt="maximmorenko's Trophies" title= "Click on the link and check out the URL" src="https://github-profile-trophy.vercel.app/?username=maximmorenko&column=4&theme=juicyfresh"> -->
+<!--     </a> -->
+<!-- </p> -->
