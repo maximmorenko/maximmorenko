@@ -143,6 +143,9 @@
   </p>
 <hr />
   <div align="center">
+    [![Hits](https://u8views.com/api/v1/github/profiles/60241469/views/day-week-month-total-count.svg)](https://u8views.com/github/maximmorenko)
+  </div>
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=maximmorenko" style="width:15%;"/>
   </div>
 <!--  <p align="center"> -->
