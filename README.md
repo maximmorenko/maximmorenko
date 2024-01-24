@@ -143,7 +143,7 @@
   </p>
 <hr />
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=maximmorenko" style="width:15%;"/>
+    <a href="https://u8views.com/github/maximmorenko"><img src="https://u8views.com/api/v1/github/profiles/60241469/views/day-week-month-total-count.svg"></a>
   </div>
 <!--  <p align="center"> -->
 <!--     <a href="https://github.com/maximmorenko"> -->
